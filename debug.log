@@ -1,0 +1,3 @@
+[1217/125254.190:ERROR:file_io_win.cc(162)] CreateFile C:\Users\ASUS\AppData\Local\Temp\karma-35046977\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[1217/125254.192:ERROR:file_io_win.cc(171)] CreateFile C:\Users\ASUS\AppData\Local\Temp\karma-35046977\Crashpad\reports\da938282-76e7-49fa-9517-a4d9f1f7396d.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[1217/125254.192:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
